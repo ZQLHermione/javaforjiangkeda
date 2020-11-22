@@ -1,2 +1,2 @@
-# javaforjiangkeda
- 江科大
+# Javaforjiangkeda
+ 江科大Java实训
