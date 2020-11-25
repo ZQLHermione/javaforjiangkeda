@@ -42,9 +42,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../sell-admin/sell-admin.iml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -146,7 +148,10 @@
       <updated>1606041685742</updated>
       <workItem from="1606041689788" duration="3135000" />
       <workItem from="1606093447068" duration="12189000" />
-      <workItem from="1606179795940" duration="2967000" />
+      <workItem from="1606179795940" duration="3962000" />
+      <workItem from="1606200925177" duration="93000" />
+      <workItem from="1606206991861" duration="132000" />
+      <workItem from="1606207254577" duration="284000" />
     </task>
     <servers />
   </component>
@@ -166,10 +171,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="688" y="78" key="FileChooserDialogImpl" timestamp="1606188362915">
+    <state x="688" y="78" key="FileChooserDialogImpl" timestamp="1606200951089">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="688" y="78" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606188362915" />
+    <state x="688" y="78" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606200951089" />
     <state width="918" height="149" key="GridCell.Tab.0.bottom" timestamp="1606123462859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
